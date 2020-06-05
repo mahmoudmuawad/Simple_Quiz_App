@@ -1,0 +1,36 @@
+<resources>
+    <string name="ql1">Q1</string>
+    <string name="ql2">Q2</string>
+    <string name="ql3">Q3</string>
+    <string name="ql4">Q4</string>
+    <string name="ql5">Q5</string>
+
+    <string name="q1">that is the values of pi?</string>
+    <string name="ansl1">2</string>
+    <string name="ans12">3.14</string>
+    <string name="ans13">23/7</string>
+
+    <string name="q2">what is the sum of angles of triangle ?</string>
+    <string name="ans21">360 deg</string>
+    <string name="ans22">180 deg</string>
+    <string name="ans23">90 deg</string>
+
+    <string name="q3">how many sides in square ?</string>
+    <string name="squaresides">Enter name here</string>
+
+    <string name="q4">When was the circle disapear?</string>
+    <string name="ans41">2010</string>
+    <string name="ans42">2008</string>
+    <string name="ans43">2007</string>
+
+    <string name="q5">Which of those men dicover real analysis?</string>
+    <string name="ans51">Euler</string>
+    <string name="ans52">Newton</string>
+    <string name="ans53">bach</string>
+
+    <string name="right_answer">Correct Answers: </string>
+    <string name="by_5">/5</string>
+    <string name="submit">Ok</string>
+
+    <string name="app_name">Q</string>
+</resources>
