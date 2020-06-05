@@ -1,0 +1,2 @@
+rootProject.name='MyQuizApp6'
+include ':app'
